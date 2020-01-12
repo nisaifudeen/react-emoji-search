@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
+
+html,
+body {
+  margin: 0;
+  height: 100%;
+  background: #316fee;
+  font-family: "Lato", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.input-wrapper {
+  max-width: 40%;
+  margin: 0 auto;
+  width: 100%;
+}
+
+input {
+  width: 100%;
+  height: 45px;
+  background-color: #ffffff;
+  border-radius: 50px;
+  border: none;
+  font-size: 20px;
+  padding: 0 39px;
+  color: #949494;
+  font-family: "Lato", sans-serif;
+}
+
+input:hover,
+input:focus {
+  outline: none;
+}
+
+h3 {
+  color: #ffffff;
+  font-weight: 200;
+  margin-bottom: 0;
+}
+
+p {
+  margin-top: 0;
+  color: #92a6f9;
+}
+
+a {
+  color: #92a6f9;
+  text-decoration: none;
+}
+
+input::placeholder {
+  color: #92a6f9;
+  font-size: 15px;
+  line-height: 60px;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.search-field {
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.display-field {
+  max-width: 955px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.img-size {
+  width: 94px;
+  height: 94px;
+  padding: 15px;
+  margin: 0 auto;
+  background: #225ace;
+}
+
+.label {
+  margin-bottom: 0;
+}
