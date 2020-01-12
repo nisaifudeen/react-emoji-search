@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/react-emoji-search/static/css/main.0c2a992e.chunk.css",
-    "main.js": "/react-emoji-search/static/js/main.68eea81b.chunk.js",
-    "main.js.map": "/react-emoji-search/static/js/main.68eea81b.chunk.js.map",
+    "main.js": "/react-emoji-search/static/js/main.719be819.chunk.js",
+    "main.js.map": "/react-emoji-search/static/js/main.719be819.chunk.js.map",
     "runtime-main.js": "/react-emoji-search/static/js/runtime-main.b4df3d7f.js",
     "runtime-main.js.map": "/react-emoji-search/static/js/runtime-main.b4df3d7f.js.map",
-    "static/js/2.6a471d81.chunk.js": "/react-emoji-search/static/js/2.6a471d81.chunk.js",
-    "static/js/2.6a471d81.chunk.js.map": "/react-emoji-search/static/js/2.6a471d81.chunk.js.map",
+    "static/js/2.883aab53.chunk.js": "/react-emoji-search/static/js/2.883aab53.chunk.js",
+    "static/js/2.883aab53.chunk.js.map": "/react-emoji-search/static/js/2.883aab53.chunk.js.map",
     "index.html": "/react-emoji-search/index.html",
-    "precache-manifest.acedd36338827444ed5c80ae941e12c0.js": "/react-emoji-search/precache-manifest.acedd36338827444ed5c80ae941e12c0.js",
+    "precache-manifest.cd1ae017be71c22c107cb5415f0a406c.js": "/react-emoji-search/precache-manifest.cd1ae017be71c22c107cb5415f0a406c.js",
     "service-worker.js": "/react-emoji-search/service-worker.js",
     "static/css/main.0c2a992e.chunk.css.map": "/react-emoji-search/static/css/main.0c2a992e.chunk.css.map",
-    "static/js/2.6a471d81.chunk.js.LICENSE": "/react-emoji-search/static/js/2.6a471d81.chunk.js.LICENSE",
+    "static/js/2.883aab53.chunk.js.LICENSE": "/react-emoji-search/static/js/2.883aab53.chunk.js.LICENSE",
     "static/media/logo.svg": "/react-emoji-search/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b4df3d7f.js",
-    "static/js/2.6a471d81.chunk.js",
+    "static/js/2.883aab53.chunk.js",
     "static/css/main.0c2a992e.chunk.css",
-    "static/js/main.68eea81b.chunk.js"
+    "static/js/main.719be819.chunk.js"
   ]
 }
